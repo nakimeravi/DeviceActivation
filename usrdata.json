@@ -13,10 +13,10 @@
     }
 
 
-      {
-        "device_id": "ddb6cf55f3d7e7bb",
-        "key": "keynn",
-        "expirydate": "8-08-2026",
-        "Allowoffline": false
-      }
+      device_id": "device123",
+        "key": "key12345",
+        "expirydate": "9-09-2026",
+        "Allowoffline": true
+    },
+]
 
